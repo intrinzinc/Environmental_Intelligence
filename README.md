@@ -9,6 +9,50 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 ![alt text](https://www.impactlab.org.uk/uploads/environmental_intelligence2.jpg)
 
 
+## Climate
+* [ClimateSeed](https://www.climateseed.com/): projects to offset your carbon emissions while contributing to SDGs at a fair price
+* [Data Distribution Centre (DDC) of the Intergovernmental Panel on Climate Change (IPCC)](http://www.ipcc-data.org/): The DDC provides climate, socio-economic and environmental data, both from the past and also in scenarios projected into the future. The DDC is designed primarily for climate change researchers, but materials contained on the site may also be of interest to educators, governmental and non-governmental organisations, and the general public.
+* [Space Climte Observatory](https://www.spaceclimateobservatory.org/)
+* [Copernicus climate data store](https://climate.copernicus.eu/)
+* [Moja](https://moja.global/): moja global helps countries understand their emissions today and plan their reductions for tomorrow.
+* [Climate engine](http://climateengine.org/): Analyze and interact with climate and earth observations for decision support related to drought, water use, agricultural, wildfire, and ecology
+* [VAMPIRE](http://pulselabjakarta.id/vampire/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
+* [Climate Watch](https://www.climatewatchdata.org/)> Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
+* [Partnership for Resilience and Preparedness](https://prepdata.org/): Visualizing data to build climate resilience> 
+* [NCEI](https://www.ncdc.noaa.gov/data-access): is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available.
+* [UK's MET Office](https://www.metoffice.gov.uk/datapoint): DataPoint is an unsupported service to access freely available Met Office data feeds in a format that is suitable for application developers.
+* [MapX](https://www.mapx.org)
+* [Berkeley Earth](http://berkeleyearth.org/data/)
+
+## Water
+* [SDG 661 (Surface Water Monitoring)](https://www.sdg661.app)
+* [Global Surface Water Explorer](https://global-surface-water.appspot.com/): maps the location and temporal distribution of water surfaces at the global scale over the past 32 years
+* [Flood and Drought Monitor](http://www.flooddroughtmonitor.com/home): freely available data for floods and drought assessments
+* [Transboundary Waters Assessment Programme](http://twap-rivers.org/indicators/): The Central TWAP Data Viewer is a tool to showcase and visualize the main indicator results of the TWAP. It harvests the results and indicators from the water-system specific databases, enabling users to simultaneously explore the results of all five assessments, including cross-cutting issues and synthesis results
+* [Aqueduct](https://www.wri.org/our-work/project/aqueduct/maps-data): The Atlas uses a robust, peer reviewed methodology and the best-available data to create high-resolution, customizable global maps of water risk
+* [Water Peace and Security Partnership](https://www.un-ihe.org/water-peace-and-security-partnership)
+
+
+## Forests	
+* [Global Forest Watch](https://www.globalforestwatch.org/): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
+* [Global Forest Resources Assessment](http://www.fao.org/forestry/en/)
+* [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
+* [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
+* [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
+
+## Biodiversity & Ecology
+* [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
+* [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
+* [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
+* [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
+* [UN Environment World Conservation Monitoring Centre (UNEP-WCMC)](https://www.unep-wcmc.org/resources-and-data): The UN Environment World Conservation Monitoring Centre (UNEP-WCMC) works with scientists and policy makers worldwide to place biodiversity at the heart of environment and development decision-making to enable enlightened choices for people and the planet. 
+* [IUCN Red List of Threatened Species](https://www.iucnredlist.org/resources/spatial-data-download)
+* [IUCN Red List of Ecosystems](https://iucnrle.org/)
+* [Map of Life (MOL)](https://mol.org/): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
+* [Nature Map Earth](https://naturemap.earth/): Nature Map Earth is developing an integrated global map of biodiversity, carbon storage, and other dimensions of nature by consolidating and crowd-sourcing data from many sources.
+* [Movebank]( https://www.movebank.org/panel_embedded_movebank_webapp): Movebank is a free, online database of animal tracking data hosted by the Max Planck Institute for Ornithology. We help animal tracking researchers to manage, share, protect, analyze, and archive their data. The animal tracking data in Movebank belongs to researchers all over the world who choose whether and how to share their data with the public.
+* [Macaulay Library, Cornell Lab of Ornithology)](https://www.macaulaylibrary.org): The Macaulay Library is the world’s premier scientific archive of natural history audio, video, and photographs. Although the Macaulay Library’s history is rooted in birds, the collection includes amphibians, fishes, and mammals, and the collection preserves recordings of each species’ behavior and natural history.
+* [UK's Center for Ecology and Hydrology data](https://catalogue.ceh.ac.uk/eidc/documents): The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue
 
 ## Multi-thematic
 
@@ -63,53 +107,6 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [List of GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
 * [Open Data Cube](https://www.opendatacube.org/): An Open Source Geospatial Data Management
 & Analysis Platform
-
-
-## Climate
-* [ClimateSeed](https://www.climateseed.com/): projects to offset your carbon emissions while contributing to SDGs at a fair price
-* [Data Distribution Centre (DDC) of the Intergovernmental Panel on Climate Change (IPCC)](http://www.ipcc-data.org/): The DDC provides climate, socio-economic and environmental data, both from the past and also in scenarios projected into the future. The DDC is designed primarily for climate change researchers, but materials contained on the site may also be of interest to educators, governmental and non-governmental organisations, and the general public.
-* [Space Climte Observatory](https://www.spaceclimateobservatory.org/)
-* [Copernicus climate data store](https://climate.copernicus.eu/)
-* [Moja](https://moja.global/): moja global helps countries understand their emissions today and plan their reductions for tomorrow.
-* [Climate engine](http://climateengine.org/): Analyze and interact with climate and earth observations for decision support related to drought, water use, agricultural, wildfire, and ecology
-* [VAMPIRE](http://pulselabjakarta.id/vampire/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
-* [Climate Watch](https://www.climatewatchdata.org/)> Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
-* [Partnership for Resilience and Preparedness](https://prepdata.org/): Visualizing data to build climate resilience> 
-* [NCEI](https://www.ncdc.noaa.gov/data-access): is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available.
-* [UK's MET Office](https://www.metoffice.gov.uk/datapoint): DataPoint is an unsupported service to access freely available Met Office data feeds in a format that is suitable for application developers.
-* [MapX](https://www.mapx.org)
-* [Berkeley Earth](http://berkeleyearth.org/data/)
-
-## Water
-* [SDG 661 (Surface Water Monitoring)](https://www.sdg661.app)
-* [Global Surface Water Explorer](https://global-surface-water.appspot.com/): maps the location and temporal distribution of water surfaces at the global scale over the past 32 years
-* [Flood and Drought Monitor](http://www.flooddroughtmonitor.com/home): freely available data for floods and drought assessments
-* [Transboundary Waters Assessment Programme](http://twap-rivers.org/indicators/): The Central TWAP Data Viewer is a tool to showcase and visualize the main indicator results of the TWAP. It harvests the results and indicators from the water-system specific databases, enabling users to simultaneously explore the results of all five assessments, including cross-cutting issues and synthesis results
-* [Aqueduct](https://www.wri.org/our-work/project/aqueduct/maps-data): The Atlas uses a robust, peer reviewed methodology and the best-available data to create high-resolution, customizable global maps of water risk
-* [Water Peace and Security Partnership](https://www.un-ihe.org/water-peace-and-security-partnership)
-
-
-## Forests	
-* [Global Forest Watch](https://www.globalforestwatch.org/): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
-* [Global Forest Resources Assessment](http://www.fao.org/forestry/en/)
-* [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
-* [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
-* [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
-
-## Biodiversity & Ecology
-* [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
-* [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
-* [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
-* [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
-* [UN Environment World Conservation Monitoring Centre (UNEP-WCMC)](https://www.unep-wcmc.org/resources-and-data): The UN Environment World Conservation Monitoring Centre (UNEP-WCMC) works with scientists and policy makers worldwide to place biodiversity at the heart of environment and development decision-making to enable enlightened choices for people and the planet. 
-* [IUCN Red List of Threatened Species](https://www.iucnredlist.org/resources/spatial-data-download)
-* [IUCN Red List of Ecosystems](https://iucnrle.org/)
-* [Map of Life (MOL)](https://mol.org/): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
-* [Nature Map Earth](https://naturemap.earth/): Nature Map Earth is developing an integrated global map of biodiversity, carbon storage, and other dimensions of nature by consolidating and crowd-sourcing data from many sources.
-* [Movebank]( https://www.movebank.org/panel_embedded_movebank_webapp): Movebank is a free, online database of animal tracking data hosted by the Max Planck Institute for Ornithology. We help animal tracking researchers to manage, share, protect, analyze, and archive their data. The animal tracking data in Movebank belongs to researchers all over the world who choose whether and how to share their data with the public.
-* [Macaulay Library, Cornell Lab of Ornithology)](https://www.macaulaylibrary.org): The Macaulay Library is the world’s premier scientific archive of natural history audio, video, and photographs. Although the Macaulay Library’s history is rooted in birds, the collection includes amphibians, fishes, and mammals, and the collection preserves recordings of each species’ behavior and natural history.
-* [UK's Center for Ecology and Hydrology data](https://catalogue.ceh.ac.uk/eidc/documents): The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue
-
 
 ## Protected areas
 * [Global Platform of Indigenous and Community Lands](http://www.landmarkmap.org/data/): The Global Platform of Indigenous and Community Lands displays georeferenced information on collectively-held and used lands worldwide
